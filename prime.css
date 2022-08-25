@@ -1,0 +1,369 @@
+body{
+  margin: 0;
+  height: ;
+}
+.header{
+  background-color: #162430;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  position: fixed;
+  margin-top: -80px;
+}
+.logo1{
+  margin-left: 50px;
+  cursor: pointer;
+  transition: 0.1s;
+}
+.logo1:hover{
+  width: 109px;
+  height: 32px;
+}
+.home{
+  padding-left: 17px;
+  
+}
+.home1{
+  margin-left: 18px;
+  font-size: 17px;
+  color: rgba(242,244,246,.9);
+  font-family: "Amazon Ember",Arial,sans-serif;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.home1:hover{
+  color: #363636;
+}
+.hmiddle{
+  flex: 300px;
+}
+
+.hright{
+  flex: 100px;
+  
+}
+.tryforfree{
+  font-size: 17px;
+  font-weight: lighter;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  height: 36px;
+  width: 122px;
+  background-color: #0f79af;
+  color: #f2f4f6e6;
+  border-style: none;
+  border-radius: 3px;
+  margin-left: 205px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.tryforfree:hover{
+  background-color: #012f49;
+}
+.search{
+  
+  margin-left: 26px;
+  margin-top: 15px;
+}
+.globe{
+  margin-left: 26px; 
+  margin-top: 5px;
+
+}
+.en{
+  font-size: 16px;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  position: absolute;
+  color: white;
+  margin-top: 15px;
+}
+.person{
+  margin-left: 45px;
+}
+.select{
+  margin-left: 3px;
+  background-color: #162430;
+}
+.content{
+  margin-top: 80px;
+  width: 100%;
+  height: 1200px;
+  background-color: black;
+
+}
+.background1{
+  width: 100%;
+}
+
+.firstarticle{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  
+  top: 160px;
+  left: 90px;
+  width: 689px;
+  height: 289px;
+}
+.fa1{
+  color: white;
+  font-size: 47px;
+  margin-top: 40px;
+  font-weight: 100;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  
+
+}
+.fa2{
+  color: white;
+  font-size: 22px;
+  margin-top: 20px;
+  font-weight: 100;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+}
+.fa3{
+  margin-top: 20px;
+  width: 280px;
+  height: 48px;
+  background-color: #0f79af;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.fa3:hover{
+  background-color: #012f49;
+}
+.fa4{
+  color: white;
+  
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  margin-top: 10px;
+  margin-left: 40px;
+  font-weight: 100;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.fa4:hover{
+  color: #363636;
+}
+
+.content2{
+  width: 100%;
+  height: 400px;
+  background-color: white;
+  position: absolute;
+    top: 1136px;
+   
+}
+.cont1{ 
+  margin-left: 70px;
+  display: flex;
+    flex-direction: column;
+  width: 90%;
+  height: 500px;
+ 
+}
+.background2{
+  width: 100%;
+  margin-top: -190px;
+
+
+}
+.secondarticle{
+  width: 900px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+margin-top: -580px;
+  margin-left: 100px;
+}
+.sa1{
+  font-size: 40px;
+  color: white;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+}
+.sa2{
+  font-size: 20px;
+  color: white;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  margin-top: 27px;
+
+}
+.sa3{
+  background-color: #0f79af;
+  font-size: 18px;
+  margin-top: 40px;
+  width: 300px;
+  height: 50px;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.sa3:hover{
+  background-color: #012f49;
+}
+.background3{
+  width: 100%;
+  height: 700px;
+  margin-top: 380px;
+}
+.article4{
+
+  display: flex;
+  flex-direction: column;
+}
+.article14{
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  height: 400px;
+  position: absolute;
+  margin-top: 450px;
+  margin-left: 750px;
+  color: white;
+  font-size: 45px;
+  padding-left: 60px;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+}
+.article24{
+  margin-top: 20px;
+  color: white;
+  font-size: 22px;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+}
+.article34{
+  margin-top: 20px;
+  width: 250px;
+  height: 50px;
+  color: white;
+  background-color: #0f79af;
+  border-style: none;
+  border-radius: 2px;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  cursor: pointer;
+  transition: 0.4s;
+  
+}
+.article34:hover{
+  background-color: #012f49;
+}
+
+.background4{
+  width: 100%;
+  position: absolute;
+  margin-top: -185px;
+}
+.cont2{
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  width: 700px;
+  height: 500px;
+  position: absolute;
+  left: 735px;
+  margin-top: 25px;
+}
+
+.box{
+  width: 220px;
+  height: 150px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+.box:hover{
+  box-shadow: 20px 20px 20px 20px #363636;
+}
+.cont3{
+  width: 660px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+}
+.cont31{
+  margin-top: 37px;
+  font-size: 45px;
+  color: rgb(25, 25, 25);
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  line-height: 50px;
+  font-weight: none;
+}
+.cont32{
+  font-size: 25px;
+  margin-top: 20px;
+  color: rgb(25, 25, 25);
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+
+}
+.article5{
+  display: flex;
+  flex-direction: column;
+}
+.article15{
+  display: flex;
+  flex-direction: column;
+  width: 750px;
+  height: 400px;
+  position: absolute;
+  margin-top: -80px;
+  padding-left: 90px;
+  
+}
+.article151{
+  color: white;
+  font-size: 45px;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+}
+.article25{
+  color: white;
+  font-size: 20px;
+  font-family: Amazon Arabic Ember,Arial,sans-serif!important;
+  margin-top: 20px;
+}
+.article35{
+  margin-top: 40px;
+  color: white;
+  background-color: #0f79af;
+  border-style: none;
+  border-radius: 2px;
+  width: 250px;
+  height: 50px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.article35:hover{
+  background-color: #012f49;
+}
+.footer2{
+  width: 100%;
+  height: 170px;
+  background-color: #1c1d1d;
+  margin-top: 500px;
+}
+.webfooter{
+margin-top: 50px;
+margin-left: 700px;
+cursor: pointer;
+  transition: 0.4s;
+}
+.webfooter:hover{
+  width: 90px;
+  height: 30px;
+}
+.footerlast{
+  padding-top: 10px;
+  padding-left: 450px;
+  color: #363636;
+
+}
+.fblutxt{
+  color: #0f79af;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.fblutxt:hover{
+  color: #dbeaf3;
+}
